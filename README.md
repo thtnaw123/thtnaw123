@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thtnaw123
-- 👀 I’m interested in software development
+- 👀 I’m interested in computer networks, programming and software development
 - 🌱 I’m currently learning Computer Science and Engineering 
 - 💞️ I’m looking to collaborate on Software development projects
 - 📫 You can can reach me via email thtnawbuze@gmail.com
