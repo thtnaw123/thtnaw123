@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **front end and back end projects using MERN stack**
 
-- 💬 Ask me about **Python,react, Nodejs, Expressjs,REST API, Mongodb**
+- 💬 Ask me about **React, Nodejs, Expressjs, REST API, MongoDB**
 
 - 📫 How to reach me **thtnawbuze@gmail.com**
 
