@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thtnaw123&label=Profile%20views&color=0e75b6&style=flat" alt="thtnaw123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="thtnaw123" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://pixabay.com/videos/ai-generated-programmer-coding-270432/" alt="thtnaw123" /></a> </p>
 
 - 🔭 I’m currently working on **Personal and Freelancing Projects**
 
