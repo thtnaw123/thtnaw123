@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tihitinaw Bezuwork</h1>
+<h1 align="center">Hi 👋, I'm Tihitinaw </h1>
 <h3 align="center">A diligent software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thtnaw123&label=Profile%20views&color=0e75b6&style=flat" alt="thtnaw123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA2ODAyMTQsIm5iZiI6MTc2MDY3OTkxNCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDE3VDA1NDUxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU4MjY3ZTE2MjRmZmE5MjQ5N2MwOWI5MzQ5ODJkOTU1MTlhMDNjZTA5NGRkNTliNjdjNDdkYzMwYmJkODJiM2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6ykIsv82uNDnVcu5VJuVgUxxQNY3CLgpbhcMzBHwekI" alt="thtnaw123" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA2ODAyMTQsIm5iZiI6MTc2MDY3OTkxNCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDE3VDA1NDUxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU4MjY3ZTE2MjRmZmE5MjQ5N2MwOWI5MzQ5ODJkOTU1MTlhMDNjZTA5NGRkNTliNjdjNDdkYzMwYmJkODJiM2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6ykIsv82uNDnVcu5VJuVgUxxQNY3CLgpbhcMzBHwekI" alt="thtnaw123" /></a> </p> -->
 
 - 🔭 I’m currently working on **Personal and Freelancing Projects**
 
